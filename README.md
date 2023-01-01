@@ -1,6 +1,6 @@
 + Бразуерная игра 
-+
+
 + ### Сделано с использованием: 
-+ - HTML
-+ - CSS
-+ - JavaScript
+ - HTML
+ - CSS
+ - JavaScript
